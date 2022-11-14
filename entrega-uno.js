@@ -15,7 +15,7 @@ function dividirSeis () {
 
 function dividirDoce () {
     let montoDoce = Number(prompt("escriba el monto a convertir, a este se le agregara un interes del 59%"))
-        alert("Cada cuota sera de : " + (parseInt(montoDoce + (59% montoDoce)) / 6))
+        alert("Cada cuota sera de : " + (parseInt(montoDoce + (59% montoDoce)) / 12))
 }
 
 while (cuotas != 0) {
